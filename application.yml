@@ -1,0 +1,8 @@
+level1:
+  property1: 5
+  property2: 6
+  property3: 7
+  level2:
+     property4: 8
+     property5: 10
+     property6: 11
